@@ -1,0 +1,1 @@
+This is my digital garden I'm building as I move away from WordPress. 
