@@ -1,6 +1,7 @@
 'use client'
 import { TextEffect } from '@/components/ui/text-effect'
 import Link from 'next/link'
+import { Nav } from './nav'
 
 export function Header() {
   return (
@@ -19,6 +20,8 @@ export function Header() {
           Figuring Things Out
         </TextEffect>
       </div>
+
+      <Nav />
     </header>
   )
 }
